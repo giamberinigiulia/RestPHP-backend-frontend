@@ -13,6 +13,6 @@ Utilizzando il database mysql fornito, realizzare in PHP le seguenti API rest pe
 
 * PUT /students.php/:id { 'id': xxx, 'name': 'xxxx', 'surname': 'xxxxx', 'taxCode': 'xxxxx', sidiCode: 'xxxxx'}   -->  aggiorna lo studente con id passato in input (tutti i campi, mette a null i campi non presenti)
 
-Realizzazione della grafica tramite framework bootstrap (template -----)
+Realizzazione della grafica tramite framework bootstrap (template [Table-Fixed-Header](https://colorlib.com/etc/tb/Table_Fixed_Header/))
 
 ![Image of Frontend](https://github.com/giamberinigiulia/RestPHP/blob/master/images/icons/Frontend.PNG)
